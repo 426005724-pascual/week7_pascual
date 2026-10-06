@@ -1,0 +1,6 @@
+name: week7_pascual
+description: A Dart application for Week 7 assignment.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
